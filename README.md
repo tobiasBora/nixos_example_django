@@ -25,3 +25,7 @@ SyntaxError: invalid syntax
 Why?!
 
 
+Note that some other commands actually work, like:
+
+    result/bin/manage.py shell
+
