@@ -2,6 +2,9 @@
 
 Running:
 
+    git clone https://github.com/tobiasBora/nixos_example_django.git
+    cd nixos_example_django
+    git checkout syntax_error
     nix-build
 
 and then
