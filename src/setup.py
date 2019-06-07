@@ -8,6 +8,6 @@ setup(name='mydjangowebsite',
       author='Me',
       author_email='me@example.com',
       packages=find_packages(),
-      scripts=["manage.py"],
+      #scripts=["manage.py"],
       include_package_data=True,
      )
